@@ -1,0 +1,12 @@
+# Bytecode
+__pycache__/
+
+# IDE
+/.idea/
+
+# Installed packages
+/src/
+
+# Models and results
+/results/*
+!/results/.gitkeep
